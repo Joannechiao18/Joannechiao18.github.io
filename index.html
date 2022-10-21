@@ -23,9 +23,8 @@
 
 				<!-- Nav -->
 					<nav id="nav">
-						<a href="#home" class="icon solid fa-home"><span>Home</span></a>
+						<a href="#home" class="icon solid fa-home" style="background-color: none;"><span>Home</span></a>
 						<a href="#about" class="icon solid fa-user"><span>About Me</span></a>
-						<a href="#skills" class="icon solid fa-cubes"><span>Skills</span></a>
 						<a href="#timeline" class="icon solid fa-tags"><span>Timeline</span></a>
 						<a href="#projects" class="icon solid fa-code"><span>Projects</span></a>
 						<a href="#contact" class="icon solid fa-envelope"><span>Contact</span></a>
@@ -55,16 +54,12 @@
 									<h3 style="font-size: 25px;position: relative;text-align: center;">A LITTLE BIT MORE TO KNOW.</h3>
 									<h2 style="color: #DA784D;margin-top: 20px;font-weight: bold;position: relative;position: relative;text-align: center">About Me</h2>
 
-									<a href="#"><div class="intro-image" style="background-image:url('images/intro.jpg')"></div></a>
+									<!--<div class="intro-image" style="background-image:url('images/intro.jpg')"></div>-->
 
 									<p>I'm an CS undergrad from Taiwan. I love to make unique and impact-driven products. My professional interests are mainly in <span>Artificially Intelligence (AI)</span>, <span>Computer Vision (CV)</span> and <span>Software Engineering</span>. My dream is to build a product that integrates AI techiniques with software engineering techiques. This is the <a href="#projects">way</a> to know more about me!</p>
-								</header>
-							</article>
 
-							<!-- Skills -->
-							<article id="skills" class="panel">
-								<header>
-									<h3 style="font-size: 25px;position: relative;text-align: center;">HERE ARE SOME OF MY SKILLS.</h3>
+									<hr width="95%"; style="margin:auto;">
+
 									<h2 style="color: #DA784D;margin-top: 20px;font-weight: bold;position: relative;position: relative;text-align: center">Skills</h2>
 
 									<div class="grid-wrapper">
@@ -107,6 +102,7 @@
 								</header>
 							</article>
 
+
 						<!---Timeline--->
 							<article id="timeline" class="panel">
 								<header>
@@ -120,24 +116,25 @@
 
 									<h2 style="font-weight: 500;margin-top: 5%;position: relative;text-align:center;">Work Experience</h2>	
 
-									<div class="history-tl2-container">
-									<ul class="tl2">
-									    <li class="tl2-item" ng-repeat="item in retailer_history">
-									      <a href="https://www.itri.org.tw/english/"><div class="timeline-image" style="background-image:url('images/itri.jpg')"></div></a>
+									<div class="history-tl-container">
+									<ul class="tl">
+									    <li class="tl-item" ng-repeat="item in retailer_history">
+									      <div class="timeline-image" style="background-image:url('images/itri.jpg')"></div>
+									      <div class="item-detail" style="color: #2E86C1 ; font-weight: 400;">AI System Development Intern @</div>
 
-									      <div class="item-title" style="padding-top: auto;">Industrial Technology Research Institute (ITRI)</div>
-									      	<div class="item-detail" style="font-style: italic;">-AI System Development Intern</div>
-									      	<div class="item-detail" style="font-style: italic;">Apr 2022 - Present</div>
-									      	<div class="item-detail">-Worked on DataRefine (adaption of Google Refine) for automated data cleaning</div>		
+									      <a href="https://www.itri.org.tw/english/"><div class="item-title" style="padding-top: auto;">Industrial Technology Research Institute (ITRI)</div></a>
+									      	<div class="item-detail" style="font-style: italic;font-weight: 400;">Apr 2022 - Present</div>
+									      	<div class="item-detail">-Worked on DataRefine (adaption of Google Refine) for automated data cleaning</div>	
+									      	<div class="item-detail">-Developed outlier detection facet and designed an inference API of BERT for semantic facet</div>	
 									      
 									    </li>
-									    <li class="tl2-item" ng-repeat="item in retailer_history" style="margin-top:-5%">
-									      <a href="https://www.wnc.com.tw/"><div class="timeline-image" style="background-image:url('images/wnc.jpg')"></div></a>
+									    <li class="tl-item" ng-repeat="item in retailer_history" style="margin-top:-5%">
+									      <div class="timeline-image" style="background-image:url('images/wnc.jpg')"></div>
 
-									      <div class="item-title">Wistron NeWeb Corp. (WNC)</div>
-									      	<div class="item-detail" style="font-style: italic;">Full Stack Software Engineer Intern</div>
-									      	<div class="item-detail" style="font-style: italic;">Summer 2021</div>
-									      	<div class="item-detail">-Devised Global Manufacturing Daily Work Report System using ASP.NET MVC and two Oracle DBs</div>
+									      <div class="item-detail" style="color: #2E86C1; font-weight: 400;">Full Stack Software Engineer Intern @</div>
+									      <a href="https://www.wnc.com.tw/"><div class="item-title">Wistron NeWeb Corp. (WNC)</div></a>
+									      	<div class="item-detail" style="font-style: italic; font-weight: 400;">Summer 2021</div>
+									      	<div class="item-detail">-Devised Global Manufacturing Daily Work Report System using ASP.Net MVC and two Oracle DBs</div>
 									      	<div class="item-detail">-Constructed DevOps CI/CD Jenkins pipeline for software development/deployment automation</div>
 									    </li>
 									  </ul>
@@ -147,24 +144,25 @@
 
 									<h2 style="font-weight: 500;margin-top: 5%;position: relative;text-align:center;">Education</h2>
 
-									<div class="history-tl2-container">
-									<ul class="tl2">
-									    <li class="tl2-item" ng-repeat="item in retailer_history">
-									      <a href="https://www.itri.org.tw/english/"><div class="timeline-image" style="background-image:url('images/YZU_logo.jpg')"></div></a>
+									<div class="history-tl-container">
+									<ul class="tl">
+									    <li class="tl-item" ng-repeat="item in retailer_history">
+									      <div class="timeline-image" style="background-image:url('images/YZU_logo.jpg')"></div>
 
-									      <div class="item-title" style="padding-top: auto;">Yuan Ze University</div>
-									      	<div class="item-detail" style="font-style: italic;">Sept 2019 - Jun 2023</div>
-									      	<div class="item-detail">-Worked on DataRefine (adaption of Google Refine) for automated data cleaning</div>		
+									      <div class="item-detail" style="color: #2E86C1; font-weight: 400;">B.S in CSE @</div>
+									      <a href="https://www.yzu.edu.tw/index.php/en-us/"><div class="item-title" >Yuan Ze University</div></a>
+									      	<div class="item-detail" style="font-style: italic;font-weight: 400;">Sept 2019 - Jun 2023</div>
+									      	<div class="item-detail">-Ranked 1st among 148 undergrads</div>		
 									      
 									    </li>
-									    <li class="tl2-item" ng-repeat="item in retailer_history" style="margin-top:-5%">
-									      <a href="https://www.wnc.com.tw/"><div class="timeline-image" style="background-image:url('images/hgsh.jpg')"></div></a>
+									    <li class="tl-item" ng-repeat="item in retailer_history" style="margin-top:-5%">
+									      <div class="timeline-image" style="background-image:url('images/hgsh.jpg')"></div>
 
-									      <div class="item-title">Hsinchu Girl's Senior High School</div>
-									      	<div class="item-detail" style="font-style: italic;">Full Stack Software Engineer Intern</div>
-									      	<div class="item-detail" style="font-style: italic;">Sept 2016 - Jun 2019</div>
-									      	<div class="item-detail">-Devised Global Manufacturing Daily Work Report System using ASP.NET MVC and two Oracle DBs</div>
-									      	<div class="item-detail">-Constructed DevOps CI/CD Jenkins pipeline for software development/deployment automation</div>
+									      <div class="item-detail" style="color: #2E86C1; font-weight: 400;">High School Diploma @</div>
+									      <a href="https://www.hgsh.hc.edu.tw/ischool/publish_page/0/"><div class="item-title">Hsinchu Girl's Senior High School</div></a>
+									      	<div class="item-detail" style="font-style: italic;font-weight: 400;">Sept 2016 - Jun 2019</div>
+									      	<div class="item-detail">-Graduated with honors</div>
+									      	
 									    </li>
 									  </ul>
 									</div>
@@ -210,7 +208,6 @@
 										<div class="col-4 col-6-medium col-12-small" >
 
 											<div class="content" style="position: relative;width: 100%;">
-											    
 											      <div class="content-overlay"></div>
 											      
 											      <img class="content-image" src="images/framework.png">
@@ -222,8 +219,9 @@
 											    
 											  </div>
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
-											  	[Pytorch, EEG signals, <br>Signal preprocessing, GAN]</p>
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
+											  	[Pytorch, EEG signals preprocessing, GAN]</p>
+
 											  </div> 
 										</div>
 										<div class="col-4 col-6-medium col-12-small">
@@ -242,7 +240,7 @@
 											  </div>
 
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
 											  	[Keras, Tensorflow, LSTM, VGG-16]</p>
 											  </div> 
 										</div>
@@ -261,7 +259,7 @@
 											  </div>
 
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
 											  	[Bilateral filter, RL, A2C, Image smoothing]</p>
 											  </div> 
 										</div>
@@ -281,7 +279,7 @@
 											    
 											  </div>
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
 											  	[JDK, Java servlet, Apache maven]</p>
 											  </div> 
 										</div>
@@ -301,7 +299,7 @@
 											    
 											  </div>
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
 											  	[Graphics, OpenGL, Glut]</p>
 											  </div> 
 										</div>
@@ -321,7 +319,7 @@
 											    
 											  </div>
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
 											  	[Instance segmentation, Yolov7]</p>
 											  </div> 
 										</div>
@@ -338,7 +336,7 @@
 
 											  </div>
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
 											  	[Java, Android app, Google firebase]</p>
 											  </div>
 										</div>
@@ -354,7 +352,7 @@
 											      </div>
 											  </div>
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
 											  	[Raspberry-pi 3, HOG, LineBot]</p>
 											  </div>
 										</div>
@@ -370,7 +368,7 @@
 											      </div>
 											  </div>
 											  <div style="text-align:center;">
-											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#657F9C;"></i> 
+											  	<p style="font-size:12px;font-weight: 400;"><i class="fa fa-tag" aria-hidden="true" style="color:#645D7E;"></i> 
 											  	[Anomaly dectection, GAN, Keras]</p>
 											  </div>
 										</div>

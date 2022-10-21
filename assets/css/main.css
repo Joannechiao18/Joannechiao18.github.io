@@ -38,7 +38,7 @@ h1{
 }
 
 span{
-	color: #636183;
+	color: #AFAF9C;
 	font-weight: 400;
 }
 
@@ -82,76 +82,84 @@ input, select, textarea {
 }
 
 a{
+	color: #645D7E ;
 	text-decoration: none;
+	font-weight: 380;
+
 }
 
+a:hover{
+	text-decoration: underline;
+
+}
+
+
+
 .history-tl-container{
-	margin-top: 5%;
-	position:relative;
-	margin: 0, auto;
-	width:100%;
-	display:block;
-	  
+  width:50%;
+  margin:auto;
+  display:block;
+  position:relative;
 }
 .history-tl-container ul.tl{
-	position: relative;
-    margin-left: 0px;
+    margin:20px 0;
     padding:0;
     display:inline-block;
+    position: relative;
+    margin-left:100vh - 50px;
 
 }
 .history-tl-container ul.tl li{
-	position:relative;
     list-style: none;
-    margin-left:5%;
+    margin:auto;
+    
     min-height:50px;
     /*background: rgba(255,255,0,0.1);*/
-    border-left:2px solid;
-    border-color: #ECF0F1 ;
-    padding:0 20px 80px 80px;
-    
+    border-left:1px dashed #86D6FF;
+    padding:0 0 50px 30px;
+    position:relative;
 }
 .history-tl-container ul.tl li:last-child{ border-left:0;}
 .history-tl-container ul.tl li::before{
     position: absolute;
-    left: -9%; 
+    left: -15px;
     top: -5px;
+    margin-left: 1%;
+    content: " ";
     border: 8px solid rgba(255, 255, 255, 0.74);
     border-radius: 500%;
-    background: #ffffff;
-
+    background: #258CC7;
+    height: 20px;
+    width: 20px;
     transition: all 500ms ease-in-out;
 
 }
 .history-tl-container ul.tl li:hover::before{
-	
-    border-color:  #70A494 ;
-    transition: all 1500ms ease-in-out;
+    border-color:  #258CC7;
+    transition: all 1000ms ease-in-out;
 }
 ul.tl li .item-title{
+	font-weight: 400;
 	margin-left: 15%;
-	font-weight: bold;
-	text-align: left;
-	font-size:20px;
+		width: 90%;
+		width: 120%;
 }
-
-
 ul.tl li .item-detail{
 	margin-left: 15%;
-	font-weight: normal;
-	width: 100%;
     color:rgba(0,0,0,0.5);
-    text-align: left;
-    font-size:18px;
+    font-size:90%;
+    font-weight: 300;
+    width: 120%;
 }
 ul.tl li .timestamp{
-	color: #000000;
+    color: #8D8D8D;
     position: absolute;
-  	width:80%;
-    left: -105%;
+  	width:100px;
+    left: -50%;
     text-align: right;
-    font-size: 20px;
+    font-size: 12px;
 }
+
 
 /*education============*/
 .history-tl2-container{
@@ -178,6 +186,7 @@ ul.tl li .timestamp{
     border-left:2px solid;
     border-color: #ECF0F1 ;
     padding:0 20px 80px 80px;
+    position:relative;
     
 }
 .history-tl2-container ul.tl2 li:last-child{ border-left:0;}
@@ -187,8 +196,9 @@ ul.tl li .timestamp{
     top: -5px;
     border: 8px solid rgba(255, 255, 255, 0.74);
     border-radius: 500%;
-    background: #ffffff;
-
+    background: #258CC7;;
+    height: 20px;
+    width: 20px;
     transition: all 500ms ease-in-out;
 
 }
@@ -202,6 +212,7 @@ ul.tl2 li .item-title{
 	font-weight: bold;
 	text-align: left;
 	font-size:20px;
+
 }
 
 
@@ -225,10 +236,10 @@ ul.tl2 li .timestamp{
 .timeline-image{
 	position: absolute;
 	margin: 0, auto;
-	margin-left: -17%;
+	margin-left: -68px;
 	margin-top: -5%;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   background-size: cover;
   background-position: center;
   border: solid 5px #ffffff;
@@ -238,9 +249,10 @@ ul.tl2 li .timestamp{
 }
 
 .intro-image{
-	position: relative;
-	margin-top: 5%;
-	margin-left:  40%;
+	position: absolute;
+	margin: 0, auto;
+	margin-left: -68px;
+	margin-top: -5%;
     width: 180px;
     height: 180px;
     background-size: cover;
