@@ -1,6 +1,6 @@
 ## Introduction 
 
-Hi! This is Yen-Chiao (Joanne) Wang's website. 
+Hi! This is *Yen-Chiao (Joanne) Wang's* website. 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 
 
 AJ
