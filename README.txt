@@ -1,4 +1,4 @@
-##Joanne Wang's Website.
+# Joanne Wang's Website.
 Hi! This is Yen-Chiao (Joanne) Wang's website. 
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 
@@ -6,7 +6,7 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 AJ
 aj@lkn.io | @ajlkn
 
-###Credits:
+## Credits:
 
 *Demo Images:Unsplash (unsplash.com)
 
