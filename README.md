@@ -1,6 +1,6 @@
-## Introduction 
+## Hey There!  <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p>
 
-Hi! This is *Yen-Chiao (Joanne) Wang's* website. 
+I'm *Yen-Chiao (Joanne) Wang*. 
 
 Go take a look at [here](https://joannechiao18.github.io/) now! 
 
