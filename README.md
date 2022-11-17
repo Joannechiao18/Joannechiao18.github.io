@@ -5,19 +5,17 @@
 
 
 Here are some of my skills. 
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,py,tensorflow,pytorch,php,js,jquery,html,css,git,latex,github,jenkins,firebase,androidstudio,raspberrypi,linux&perline=20)](https://skillicons.dev)
 
 
 ## Social links
 
-Find me here! 
+Learn more about me here. 
 
 [![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=githubpages&logoColor=white)](https://joannechiao18.github.io/)
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://joannechiao18.github.io/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xtenzq/)
-
-## Reach me on
-
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white")](https://www.linkedin.com/in/xtenzq/)
 
 # Feedback
