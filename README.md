@@ -12,6 +12,8 @@ Go take a look at [here](https://joannechiao18.github.io/) now!
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Joannechiao18)](https://github.com/Joannechiao18)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joannechiao18&layout=compact)](https://github.com/Joannechiao18)
+
 ## Credits:
 
 *Demo Images:Unsplash (unsplash.com)
