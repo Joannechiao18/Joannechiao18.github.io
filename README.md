@@ -1,7 +1,5 @@
-<h1>
-  Hey, it's Joanne!
+###Hey, it's Joanne!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
 Here are some of my skills. 
@@ -14,7 +12,7 @@ I'm an developer and a student from Taiwan. I love to make unique and impact-dri
 
 Learn more about me from my [website](https://joannechiao18.github.io/), or reach me on [Linkedin] or [Mail](mailto:joannechiao18@gmail.com?subject=Hello%20Ileri,%20From%20Github).
 
-# Feedback
+## Feedback
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 😊
 
 
