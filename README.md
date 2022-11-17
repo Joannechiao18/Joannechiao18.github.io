@@ -5,21 +5,14 @@
 
 I'm *Yen-Chiao (Joanne) Wang*. 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,py,php,js,jquery,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,py,tensorflowpytorch,php,js,jquery,html,css,git,latex,github,jenkins,firebase,androidstudio,raspberrypi,linux&perline=3)](https://skillicons.dev)
 
 Go take a look at [here](https://joannechiao18.github.io/) now! 
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 
+
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Joannechiao18)](https://github.com/Joannechiao18)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joannechiao18&layout=compact)](https://github.com/Joannechiao18)
-
-## Credits:
-
-*Demo Images:Unsplash (unsplash.com)
-
-*Icons:Font Awesome (fontawesome.io)
-
-*Other:jQuery (jquery.com)
 
 
