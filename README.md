@@ -5,7 +5,7 @@
 
 I'm *Yen-Chiao (Joanne) Wang*. 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,py,tensorflow,pytorch,php,js,jquery,html,css,git,latex,github,jenkins,firebase,androidstudio,raspberrypi,linux&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,py,tensorflow,pytorch,php,js,jquery,html,css,git,latex,github,jenkins,firebase,androidstudio,raspberrypi,linux&perline=20)](https://skillicons.dev)
 
 Go take a look at [here](https://joannechiao18.github.io/) now! 
 
