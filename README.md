@@ -12,12 +12,7 @@ I'm an CS undergrad from Taiwan. I love to make unique and impact-driven product
 
 ## Social links
 
-Learn more about me here. 
-
-[![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=githubpages&logoColor=white)](https://joannechiao18.github.io/)
-[![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://joannechiao18.github.io/)
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xtenzq/)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white")](https://www.linkedin.com/in/xtenzq/)
+Learn more about me from my [website](https://joannechiao18.github.io/), or reach me on [Linkedin] or [Mail](mailto:joannechiao18@gmail.com?subject=Hello%20Ileri,%20From%20Github).
 
 # Feedback
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 
