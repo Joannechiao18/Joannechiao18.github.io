@@ -18,7 +18,7 @@ Find me here!
 
 ## Reach me on
 
-[![Linkedin](https://img.shields.io/badge/gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=red)](https://www.linkedin.com/in/xtenzq/)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white")](https://www.linkedin.com/in/xtenzq/)
 
 # Feedback
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 
