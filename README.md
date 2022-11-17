@@ -8,6 +8,7 @@ Here are some of my skills.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,py,tensorflow,pytorch,php,js,jquery,html,css,git,latex,github,jenkins,firebase,androidstudio,raspberrypi,linux&perline=20)](https://skillicons.dev)
 
+I'm an CS undergrad from Taiwan. I love to make unique and impact-driven products. My professional interests are mainly in Artificially Intelligence (AI), Computer Vision (CV) and Software Engineering. My dream is to build a product that integrates AI techiniques with software engineering techiques.
 
 ## Social links
 
