@@ -10,6 +10,7 @@ I'm *Yen-Chiao (Joanne) Wang*.
 Go take a look at [here](https://joannechiao18.github.io/) now! 
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Joannechiao18)](https://github.com/Joannechiao18)
 
 ## Credits:
 
@@ -18,3 +19,5 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 *Icons:Font Awesome (fontawesome.io)
 
 *Other:jQuery (jquery.com)
+
+
