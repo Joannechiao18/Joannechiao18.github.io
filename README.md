@@ -9,7 +9,7 @@ I'm an developer and a student from Taiwan. I love to make unique and impact-dri
 
 ## Social links
 
-Learn more about me from my [website](https://joannechiao18.github.io/), or reach me on [Linkedin] or [Mail](mailto:joannechiao18@gmail.com?subject=Hello%20Ileri,%20From%20Github).
+Learn more about me from my [website](https://joannechiao18.github.io/), or reach me on [Linkedin](https://www.linkedin.com/in/yen-chiao-joanne-wang-a6b802222/) or [Mail](mailto:joannechiao18@gmail.com?subject=Hello%20Ileri,%20From%20Github).
 
 ## Feedback
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged. 😊
